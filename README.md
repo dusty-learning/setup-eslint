@@ -6,7 +6,7 @@ So I want to take a second to help you get eslint installed and working in your 
 
 Just head into the corresponding folder to which editor you are using
 
-Please don't hesitate to slack or message me with any questions or comments!
+Please don't hesitate to message me, or create an issue on this repo to ask a question!
 
 By default eslint has built in sets of rules you can choose from, but you can also easily change and tweak each individual rule if you want!
 
