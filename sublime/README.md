@@ -110,7 +110,7 @@ module.exports = {
 
 Notice I added a `rules` property, which will contain all of your custom rules and tweaks you want to use. With this rule in place `console.log` will be treated as a warning instead of an error.
 
-And now we are done, you have successfully setup and used eslint!
+And now we are done, you have successfully setup and are ready to use eslint!
 
 **REMEMBER EACH PROJECT YOU CREATE WILL NEED THAT ESLINT FILE `.eslintrc.js`**
 
