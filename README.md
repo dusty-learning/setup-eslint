@@ -1,2 +1,13 @@
-# setup-eslint
-Setting up and using eslint!
+# ESLint
+
+Eslint is a tool that is extremely helpful in figuring out bugs, problems, and understand syntax with JavaScript.
+
+So I want to take a second to help you get eslint installed and working in your vscode (or sublime) editor.
+
+Click on the correct `.md` file in order to open the markdown document that matches your editor!
+
+Please don't hesitate to slack or message me with any questions or comments!
+
+By default eslint has built in sets of rules you can choose from, but you can also easily change and tweak each individual rule if you want!
+
+You can find the huge list of rules here if you want to go through them: https://eslint.org/docs/rules/
