@@ -4,7 +4,7 @@ Eslint is a tool that is extremely helpful in figuring out bugs, problems, and u
 
 So I want to take a second to help you get eslint installed and working in your vscode (or sublime) editor.
 
-Click on the correct `.md` file in order to open the markdown document that matches your editor!
+Just head into the corresponding folder to which editor you are using
 
 Please don't hesitate to slack or message me with any questions or comments!
 
