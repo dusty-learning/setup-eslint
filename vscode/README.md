@@ -26,20 +26,6 @@ Once that finishes installing click the reload button that should show up on tha
 
 Now that this is done we have eslint on our vscode and on our machine! So we are almost there
 
-We want to add a quick setting to our vscode settings so that even if we are writing out javascript inside of `.html` files it will still get linted!
-
-![settings](../imgs/vscode-settings.png)
-
-A new tab should open with 2 panels. The panel on the left is the `default` vscode settings the panel on the right is the tweaks/changes you want to apply to vscode settings.
-
-So we want to change the files vscode validates to make sure it gets html files too. (By default it only does JS files)
-
-So go ahead and place this between the two curly brackets `{}` on the right side this is a JSON format so if you already have some settings in here make sure to put a comma in to seperate the two.
-
-```json
-"eslint.validate": ["javascript", "javascriptreact", "html"]
-```
-
 Go ahead and save and close the settings tab and you are all set!
 
 ## Using ESlint
